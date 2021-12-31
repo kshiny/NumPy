@@ -12,6 +12,7 @@
 * Bug reports: https://github.com/numpy/numpy/issues
 * Report a security vulnerability: https://tidelift.com/docs/security
 
+---
 ### It provides:
 
 * a powerful N-dimensional array object
