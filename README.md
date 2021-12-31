@@ -1,5 +1,6 @@
 ## NumPy 
 
+![image](https://user-images.githubusercontent.com/77952321/147807105-7a93e9c1-f0fb-4099-8818-b498e7dc429d.png)
 ### NumPy is the fundamental package needed for scientific computing with Python.
 
 * Website: https://www.numpy.org
@@ -17,4 +18,4 @@
 * tools for integrating C/C++ and Fortran code
 * useful linear algebra, Fourier transform, and random number capabilities
 
-![image](https://user-images.githubusercontent.com/77952321/147807105-7a93e9c1-f0fb-4099-8818-b498e7dc429d.png)
+
